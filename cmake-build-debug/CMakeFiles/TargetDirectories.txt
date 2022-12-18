@@ -1,0 +1,3 @@
+C:/FirstCursProgramm/C++/courswork/cmake-build-debug/CMakeFiles/courswork.dir
+C:/FirstCursProgramm/C++/courswork/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/FirstCursProgramm/C++/courswork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
